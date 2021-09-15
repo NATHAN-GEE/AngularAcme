@@ -1,0 +1,13 @@
+img{
+    width: 50px;   
+}
+*{
+    text-align: left;
+}
+thead{
+    background-color: rgb(36, 34, 190);
+    color: white;
+}
+tr:nth-child(even){
+    background-color: rgb(230, 213, 213);
+}
